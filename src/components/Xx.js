@@ -50,8 +50,8 @@ const Xx = () => {
         
         <input
             data-testid="input2"
-            name="data2"
-            value={name2}
+            name="name2"
+            value={data2}
             onChange={(e)=>setData2(e.target.value)}
             
         />
