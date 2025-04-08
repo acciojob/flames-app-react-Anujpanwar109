@@ -69,7 +69,7 @@ const Xx = () => {
         >
             Clear
         </button>
-        <h1 data-testid="answer" >{data}</h1>
+        <h3 data-testid="answer" >{data}</h3>
     </div>
   )
 }
